@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Taekwondo/static/css/main.752b66cb.css",
-    "main.js": "/Taekwondo/static/js/main.f745e710.js",
+    "main.js": "/Taekwondo/static/js/main.97819a1a.js",
     "index.html": "/Taekwondo/index.html",
     "main.752b66cb.css.map": "/Taekwondo/static/css/main.752b66cb.css.map",
-    "main.f745e710.js.map": "/Taekwondo/static/js/main.f745e710.js.map"
+    "main.97819a1a.js.map": "/Taekwondo/static/js/main.97819a1a.js.map"
   },
   "entrypoints": [
     "static/css/main.752b66cb.css",
-    "static/js/main.f745e710.js"
+    "static/js/main.97819a1a.js"
   ]
 }
